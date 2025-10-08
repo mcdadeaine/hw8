@@ -1,5 +1,35 @@
+*{
+  margin: 0;
+  padding: 0:
+}
+html{
+  background-color: #0f0e17;
+  font-family: Tahoma, sans-serif;
+  font-size: 16px;
+  color:  #a7a9be;
+}
 
+h1{
+  font-size: 3.5rem;
+  color: #fffffe;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
 
+h2{
+  font-size: 1.5rem;
+  text-decoration: underline dashed #f25f4c;
+  font-weight: bold;
+}
+
+li{
+  line-height: 2.5
+}
+
+a:link{
+  color:  #f25f4c;
+}
 
 
 /* no touchy */
